@@ -1,3 +1,7 @@
  this is my todays commit 
+<<<<<<< HEAD
  2 
 
+=======
+this is my second line to check git diff command 
+>>>>>>> branch1
